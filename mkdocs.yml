@@ -89,6 +89,7 @@ nav:
     - Install OCR: linux/ocr.md
     - OpenDNS Setup: linux/OpenDNS.md
     - Rclone Bisync: linux/rclone_bisync.md
+    - Rclone Web GUI: linux/rclone_webgui.md
     - Epson L6160: linux/epson.md
     - Docker + Windows 11 VM: linux/WinApps.md
     - Autosleep: linux/autosleep.md
